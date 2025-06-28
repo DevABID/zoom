@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 CSRF_TRUSTED_ORIGINS = [
-    'https://my-blog-django.onrender.com',
+    'https://zoom-2-vhyp.onrender.com',
 ]
 
 ROOT_URLCONF = 'mychat.urls'
